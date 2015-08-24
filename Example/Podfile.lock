@@ -1,0 +1,20 @@
+PODS:
+  - BlinkingLabel (0.1.0)
+  - Expecta (1.0.2)
+  - Specta (1.0.3)
+
+DEPENDENCIES:
+  - BlinkingLabel (from `../`)
+  - Expecta
+  - Specta
+
+EXTERNAL SOURCES:
+  BlinkingLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BlinkingLabel: 67c9446a45a9f4655338e6e1290d91490f9edb91
+  Expecta: 54e8a3530add08f4f0208c111355eda7cde74a53
+  Specta: cf3e4188cf35375c3ee2cd03f8db8f1f4ef98234
+
+COCOAPODS: 0.38.2
